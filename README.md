@@ -40,3 +40,7 @@ The YouTube Manager is a Python-based project designed to streamline the managem
 ```bash
 git clone https://github.com/Prabal-verma/Youtube-manager.git
 cd youtube-manager
+```
+
+### Contributing
+Contributions are welcome! Please fork this repository and submit a pull request with your changes.
